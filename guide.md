@@ -50,3 +50,4 @@ For each system you will find a section of the file like the following:
 ## 3. Open Emulation Station
 > In ESDE we will find two times the `PS2` system, one for the "internal" and one for the "external"
 
+![img](/esde1.png)
